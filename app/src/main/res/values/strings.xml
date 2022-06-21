@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameExample</string>
+    <string name="startGame">Start Game</string>
+    <string name="quitGame">Quit</string>
+</resources>
